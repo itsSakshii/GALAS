@@ -1,0 +1,16 @@
+
+html,
+:host {
+}
+body {
+   scroll-behavior: smooth;
+   font-family: 'Chillax';
+  font-weight: 300;
+  background-color:$background-color;
+  color:$text-color;
+  font-size: 16px;
+  transition: all 0.3ms ease-in;
+  letter-spacing: 2px;
+   font-weight: 300;
+  
+}

@@ -1,0 +1,16 @@
+@import url("./assets/dist/fonts/Chillax/Fonts/WEB/css/chillax.css");
+@import url("./assets/dist/font.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./styles/abstracts/variable";
+@import "./styles/base/base";
+@import "./styles/abstracts/typography";
+@import "./styles/abstracts/layout";
+@import "./styles/ui/herovdo";
+@import "./styles/ui/splide";
+@import "./styles/ui/servicecol";
+@import "./styles/ui/circularText";
+@import "./styles/ui/caraousal";
