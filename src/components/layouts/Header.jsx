@@ -3,8 +3,8 @@ import Nav from "../ui/Nav";
 export default function Header() {
   const navLinks = [
     { path: "/Home", label: "Home" },
-    { path: "/Event", label: "Event" },
-    { path: "/Discover", label: "Discover" },
+    { path: "/Event", label: "Events" },
+    { path: "/Vendor", label: "Vendors" },
     { path: "/Services", label: "Services" },
     { path: "/Blog", label: "Blog" },
     { path: "/About", label: "About Us" },
