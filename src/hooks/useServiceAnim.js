@@ -9,7 +9,7 @@ const useServiceAnim = (servicesRefs) => {
   useEffect(() => {
     // Initialize Lenis for smooth scrolling
     const lenis = new Lenis({
-      duration: 1.2, // Customize the scroll duration
+      duration: 0.5, // Customize the scroll duration
       easing: (t) => t, // Customize the easing function
       smooth: true, // Enable smooth scrolling
     });
